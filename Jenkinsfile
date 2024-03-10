@@ -17,8 +17,8 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Add deployment steps if needed
-                echo 'deploy'
-            }
+                cho 'deploy'
+            
         }
     }
 
